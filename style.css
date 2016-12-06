@@ -1,0 +1,37 @@
+body {
+	background-color: #fff;
+}
+
+#wrapper {
+	width: 512px;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 30px;
+	padding: 10px 10px 10px 10px;
+	background-color: #888;
+}
+
+.block {
+	height: 32px;
+	width: 32px;
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+	float: left;
+}
+
+.show {
+	background-color: #00f;
+	opacity: 0.5;
+}
+
+#clrbutton {
+	margin-bottom: 10px;
+}
+
+#message {
+	color: #fff;
+	float: right;
+	padding-top: 5px;
+	font-weight: bold;
+}
